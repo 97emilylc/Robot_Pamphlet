@@ -1,0 +1,48 @@
+Los Angeles Airport
+1 World Way 
+CA
+CA
+90045
+very interested
+key
+
+FBI
+1234 Lincoln Ave.
+D.C.
+D.C.
+156
+somewhat interested
+key
+
+CIA
+987 Jefferson Blvd
+MD
+MD
+492
+not interested
+key
+
+Saddleback College
+28000 Marguerite Pkwy
+CA
+CA
+92692
+somewhat interested
+nice to have
+
+Los Angeles Dodgers
+1000 Elysian Park Avenue 
+CA 
+CA 
+90012
+very interested
+nice to have
+
+Los Angeles Angels
+2000 East Gene Autry Way
+CA
+CA
+92806
+very interested
+key
+

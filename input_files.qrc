@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/input_files">
+        <file>inFile.txt</file>
+        <file>loginFile.txt</file>
+    </qresource>
+</RCC>
